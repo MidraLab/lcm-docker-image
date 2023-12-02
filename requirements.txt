@@ -2,3 +2,4 @@ omegaconf
 diffusers==0.24.0
 torch
 transformers
+accelerate
