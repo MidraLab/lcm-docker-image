@@ -2,7 +2,7 @@ name: Docker Image Test
 
 on:
   workflow_run:
-    workflows: ["Docker Build and Push"]
+    workflows: ["Docker Build and Publish"]
     types:
       - completed
 
